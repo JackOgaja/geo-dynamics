@@ -72,7 +72,7 @@ def VSFcalc(u,v,lat,lon, nd):
     # - The map function generates an iterator which is more efficient
     dx   = map( lambda x: x[0]*x[1] if np.any([x[0], x[1]], axis=0)   
                 else np.nan, list(zip(dx_j.data,dx_s.data))) 
-    dy   = map( lambda x: x[0]*x[1] if np.any([x[0], x[1]], axis=0)  
+    dy   = map( lambda y: y[0]*y[1] if np.any([y[0], y[1]], axis=0)  
                 else np.nan, list(zip(dy_j.data,dy_s.data)))  
 
     # It is necessary to copy your generators here for multiple usage
