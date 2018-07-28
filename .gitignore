@@ -10,7 +10,7 @@ lib/__pycache__/
 
 # My files
 tmp/
-out/*
+output/*.txt
 s_stats.tx
 tstats.out
 
