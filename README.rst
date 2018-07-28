@@ -8,7 +8,7 @@ data processing:
 
 Codes:
 ======
-1. VSF_temp.py  
+1. VSF_simple.py  
 - Reads geophysical data stored in NetCDF format and write ascii output.  
    - Language : Python
 
