@@ -1,20 +1,20 @@
 # Byte-compiled / optimized / DLL / tox files
 __pycache__/
+lib/__pycache__/
 *.py[cod]
 *$py.class
 *.pyc
 /.tox/
-/data/
-/output/
+
+# build files and dirs
 
 # My files
-clean_py_REF.txt
-versionUpddate.sh
-versionUpddate_REF.txt
 tmp/
+out/*
+s_stats.tx
+tstats.out
 
 # Other files
 .DS_Store
 #docs/.DS_Store
 #tests/.DS_Store
-
