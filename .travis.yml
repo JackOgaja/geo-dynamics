@@ -1,8 +1,9 @@
 language: python
 
-os:
-  - linux
-  - osx
+python:
+  - "3.6"
 
-script: run_vsf.sh 
+# run some tests
+script: 
+  - pytest
 
