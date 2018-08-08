@@ -1,9 +1,10 @@
 language: python
 
 python:
-  - "3.6"
+  - "3.5"
 
 # run some tests
 script: 
-  - pytest
+  - py.test  # for 3.5 and below
+#  - pytest  # for 3.6 and above
 
