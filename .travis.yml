@@ -1,0 +1,8 @@
+language: python
+
+os:
+  - linux
+  - osx
+
+script: run_vsf.sh 
+
