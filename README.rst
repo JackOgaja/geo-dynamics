@@ -30,5 +30,5 @@ Codes:
 Usage:
 ::
     ~$ ./run_vsf.sh
-~ 
+
 ~
