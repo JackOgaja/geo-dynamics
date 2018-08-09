@@ -1,5 +1,6 @@
 
-[![Build Status](https://travis-ci.com/JackOgaja/dataprocessing.svg?branch=master)](https://travis-ci.com/JackOgaja/dataprocessing)
+.. image:: https://travis-ci.com/JackOgaja/dataprocessing.svg?branch=master
+    :target: https://travis-ci.com/JackOgaja/dataprocessing
 
 data processing:
 ================
