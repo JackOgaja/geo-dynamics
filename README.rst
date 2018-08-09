@@ -16,6 +16,12 @@ Codes:
 - Reads geophysical data stored in NetCDF format and write ascii output.  
    - Language : Python
 
+*Dependencies*
+::
+   - numpy
+   - geopy
+   - netCDF4
+
 *To install:*
 ::
     ~$ git clone https://github.com/JackOgaja/dataprocessing.git

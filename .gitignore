@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL / tox files
 __pycache__/
 lib/__pycache__/
+tests/__pycache__/
 *.py[cod]
 *$py.class
 *.pyc
