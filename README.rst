@@ -6,7 +6,7 @@ data processing:
 ================
 
 - This repository contains standalone codes and scripts written in: 
-  python, matlab, NCL, shell-scripts, C and fortran for data processing and visualization.  
+  python, matlab, NCL, shell-scripts, C and Fortran for data processing and visualization.  
 - The individual codes and scripts are internally documented for easy application.  
 - The codes and scripts currently available are listed below:  
 
@@ -31,4 +31,3 @@ Usage:
 ::
     ~$ ./run_vsf.sh
 
-~
