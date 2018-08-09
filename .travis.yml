@@ -15,6 +15,5 @@ install:
 
 # run some tests
 script: 
-  - py.test  # for 3.5 and below
-#  - pytest  # for 3.6 and above
+  - tox 
 
