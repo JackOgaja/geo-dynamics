@@ -4,16 +4,17 @@ __version__ = '0.1.0'
 __description__ = ''
 __author__ = 'Jack Ogaja  <jack.ogaja@gmail.com> '
 __license__ = 'MIT'
+__credit__ = """\
+             """
 
 #
 
 from multiprocessing import Process, Manager
 import numpy as np
-from scipy.special import *
 from geopy.distance import vincenty  # vincenty is depracated, Try geopy.distance.geodesic
-from matplotlib.pyplot import *
 from netCDF4 import Dataset
 import itertools
+
 #
 
 def VSFcalc(u,v,lat,lon, nd):
