@@ -1,6 +1,6 @@
 
-.. image:: https://travis-ci.com/JackOgaja/dataprocessing.svg?branch=master
-    :target: https://travis-ci.com/JackOgaja/dataprocessing
+.. image:: https://travis-ci.com/JackOgaja/geo-dynamics.svg?branch=master
+    :target: https://travis-ci.com/JackOgaja/geo-dynamics
 
 Geo-dynamics:
 ================
@@ -12,9 +12,10 @@ Geo-dynamics:
 
 Codes:
 ======
+
 1. Vortex-surface Fields: VSF_simple.py  
 - Reads geophysical data stored in NetCDF format  
-- Calculates Vortex-surface Fields applying solutions of geodesics using Vincenty formula and 
+- Calculates Vortex-surface Fields applying solutions of geodesics using Vincenty formula and  
 - Writes ascii output.  
 
    - Language : Python
