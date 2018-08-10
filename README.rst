@@ -2,7 +2,7 @@
 .. image:: https://travis-ci.com/JackOgaja/dataprocessing.svg?branch=master
     :target: https://travis-ci.com/JackOgaja/dataprocessing
 
-data processing:
+Geo-dynamics:
 ================
 
 - This repository contains standalone codes and scripts written in: 
@@ -13,7 +13,7 @@ data processing:
 Codes:
 ======
 1. Vortex-surface Fields: VSF_simple.py  
-- Reads geophysical data stored in NetCDF format 
+- Reads geophysical data stored in NetCDF format  
 - Calculates Vortex-surface Fields applying solutions of geodesics using Vincenty formula and 
 - Writes ascii output.  
 
@@ -27,7 +27,7 @@ Codes:
 
 *To install:*
 ::
-    ~$ git clone https://github.com/JackOgaja/geodynamics.git
+    ~$ git clone https://github.com/JackOgaja/geo-dynamics.git
     ~$ cd dataprocessing 
 
 Usage:
