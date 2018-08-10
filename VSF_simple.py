@@ -41,7 +41,9 @@ import itertools
 
 def VSFcalc(u,v,lat,lon, nd):
     """
-    : Describe your function here
+    : VSFcalc:
+      Calculate Vortiex-surface fields applying
+      solution of geodesic using Vincenty formula
     """
 
     # vectorize the computation:
