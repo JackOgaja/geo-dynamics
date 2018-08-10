@@ -14,11 +14,12 @@ Codes:
 ======
 
 1. Vortex-surface Fields: VSF_simple.py  
-- Reads geophysical data stored in NetCDF format  
-- Calculates Vortex-surface Fields applying solutions of geodesics using Vincenty formula and  
-- Writes ascii output.  
+   - Reads geophysical data stored in NetCDF format  
+   - Calculates Vortex-surface Fields applying solutions of geodesics using Vincenty formula and  
+   - Writes ascii output.  
 
-   - Language : Python
+:Language: 
+    Python
 
 *Dependencies*
 ::
@@ -29,7 +30,7 @@ Codes:
 *To install:*
 ::
     ~$ git clone https://github.com/JackOgaja/geo-dynamics.git
-    ~$ cd dataprocessing 
+    ~$ cd geo-dynamics 
 
 Usage:
 ::
