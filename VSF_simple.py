@@ -22,7 +22,7 @@
 # -*- coding: utf-8 -*-
 
 __version__ = '0.1.0'
-__description__ = ' An example of geophysical data analysis: Fields weighted by solution of geodesic'
+__description__ = ' An example of a simple analysis of geophysical data: Fields weighted by solution of geodesic'
 __author__ = 'Jack Ogaja  <jack.ogaja@gmail.com> '
 __license__ = 'MIT'
 __credit__ = """\
