@@ -2,7 +2,7 @@
 .. image:: https://travis-ci.com/JackOgaja/geo-dynamics.svg?branch=master
     :target: https://travis-ci.com/JackOgaja/geo-dynamics
 .. image:: https://img.shields.io/github/license/mashape/apistatus.svg
-    :target: https://github.com/JackOgaja/geo-dynamcis/blob/master/LICENSE.md)
+    :target: https://github.com/JackOgaja/geo-dynamics/blob/master/LICENSE.md
 
 Geo-dynamics:
 ================
