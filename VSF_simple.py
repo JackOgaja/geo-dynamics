@@ -26,7 +26,7 @@ __description__ = ' An example of a simple analysis of geophysical data: Fields 
 __author__ = 'Jack Ogaja  <jack.ogaja@gmail.com> '
 __license__ = 'MIT'
 __credit__ = """\
-              Jenna Palmer, @DEEPS, Brown University
+              Jenna Palmer(@DEEPS, Brown University): For preparing the test data
              """
 
 #
